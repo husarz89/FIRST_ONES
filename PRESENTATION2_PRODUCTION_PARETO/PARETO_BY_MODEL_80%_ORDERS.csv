@@ -1,0 +1,32 @@
+"CONTINENT","COUNTRY","MODEL","BRAND","ORDERS","ORDERS_SUM"
+EUROPE,france,captur,renault,16900.00,16900.00
+ASIA,japan,civic,honda,13950.00,30850.00
+ASIA,south korea,elantra,hyundai,13600.00,44450.00
+EUROPE,great britain,focus,ford,13410.00,57860.00
+AUSTRALIA,australia,rapido,acura,12400.00,70260.00
+ASIA,south korea,i30,hyundai,11000.00,81260.00
+EUROPE,italy,bravo,fiat,9600.00,90860.00
+NORTH AMERICA,usa,Q7,audi,9200.00,100060.00
+EUROPE,germany,corsa,opel,9000.00,109060.00
+EUROPE,italy,"600",fiat,8720.00,117780.00
+EUROPE,italy,tipo,fiat,8700.00,126480.00
+ASIA,south korea,ceed,kia,8550.00,135030.00
+EUROPE,great britain,mondeo,ford,8330.00,143360.00
+ASIA,south korea,EV6,kia,8250.00,151610.00
+NORTH AMERICA,usa,X7,bmw,8100.00,175910.00
+ASIA,south korea,i40,hyundai,8100.00,175910.00
+ASIA,japan,HR-V,honda,8100.00,175910.00
+EUROPE,germany,A3,audi,7830.00,183740.00
+ASIA,south korea,stonic,kia,7360.00,191100.00
+EUROPE,germany,a4,audi,7350.00,198450.00
+ASIA,south korea,xceed,kia,7280.00,205730.00
+NORTH AMERICA,usa,puma,ford,7120.00,212850.00
+EUROPE,italy,panda,fiat,6930.00,219780.00
+EUROPE,germany,zafira,opel,6900.00,226680.00
+ASIA,south korea,i10,hyundai,6790.00,233470.00
+EUROPE,germany,adam,opel,6750.00,240220.00
+AUSTRALIA,australia,ram,dodge,6320.00,246540.00
+ASIA,japan,jazz,honda,5950.00,252490.00
+EUROPE,germany,"3",bmw,5850.00,258340.00
+EUROPE,germany,mocca,opel,5740.00,264080.00
+EUROPE,germany,X5,bmw,5325.00,269405.00
