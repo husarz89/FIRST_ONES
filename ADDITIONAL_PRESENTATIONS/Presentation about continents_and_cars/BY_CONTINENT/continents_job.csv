@@ -1,0 +1,62 @@
+"continent","ID_auto","car_brand","car_model","car_price","car_weight","origin","car_production","ID_kont","region","current_orders"
+EUROPE,1,opel,astra,100000,1300.00,Germany,5600,1,lipsk,3920.00
+EUROPE,2,opel,vectra,165000,1500.00,Germany,4600,1,dortmund,2990.00
+EUROPE,4,renault,megane,120000,1200.00,France,7000,1,paris,4200.00
+EUROPE,5,renault,clio,95000,1100.00,France,5500,1,paris,4400.00
+EUROPE,6,bmw,"4",175000,1500.00,Germany,4200,1,munchen,3780.00
+EUROPE,7,bmw,"6",205000,1700.00,Germany,3600,1,augsburg,2880.00
+EUROPE,10,opel,adam,100000,1000.00,Germany,7500,1,dortmund,6750.00
+EUROPE,11,opel,zafira,170000,1800.00,Germany,6900,1,lipsk,6900.00
+EUROPE,12,fiat,bravo,130000,1350.00,Italy,12000,1,turin,9600.00
+EUROPE,13,opel,omega,155000,1700.00,Germany,8400,1,lipsk,5040.00
+EUROPE,14,renault,RS,195000,1250.50,France,2500,1,strasburg,2500.00
+EUROPE,15,bmw,"3",171000,1420.00,Germany,6500,1,munchen,5850.00
+EUROPE,20,audi,a4,225000,1530.00,Germany,10500,1,stuttgart,7350.00
+EUROPE,21,audi,A3,175000,1390.50,Germany,8700,1,stuttgart,7830.00
+EUROPE,22,audi,A8,275000,2100.40,Germany,7100,1,stuttgart,3550.00
+EUROPE,29,ford,focus,147000,1370.00,Great Britain,14900,1,manchester,13410.00
+EUROPE,36,opel,corsa,100000,1150.00,Germany,12000,1,dortmund,9000.00
+EUROPE,37,opel,crossland,214000,2050.00,Germany,3500,1,lipsk,2800.00
+EUROPE,38,opel,mocca,100000,1550.00,Germany,8200,1,dortmund,5740.00
+EUROPE,42,fiat,tipo,120000,1450.00,Italy,14500,1,turin,8700.00
+EUROPE,43,fiat,panda,58500,980.00,Italy,9900,1,turin,6930.00
+EUROPE,44,renault,captur,130000,1320.00,France,16900,1,paris,16900.00
+EUROPE,48,ford,mondeo,190000,1560.00,Great Britain,11900,1,manchester,8330.00
+EUROPE,49,ford,skyful,304000,1490.00,Great Britain,999,1,manchester,999.00
+EUROPE,50,bmw,X5,254000,1680.00,Germany,7100,1,augsburg,5325.00
+EUROPE,52,fiat,"600",154000,1180.00,Italy,10900,1,turin,8720.00
+EUROPE,55,fiat,croma,199000,1510.00,Italy,5000,1,turin,3800.00
+EUROPE,61,toyota,aygo,79000,1100.00,Great Britain,15000,1,manchester,12300.00
+NORTH AMERICA,24,ford,mustang,125000,1600.00,United States,4900,2,boston,4900.00
+NORTH AMERICA,28,ford,puma,134000,1260.00,United States,8900,2,boston,7120.00
+NORTH AMERICA,31,pontiac,gto,204000,1790.00,United States,2200,2,detroit,2200.00
+NORTH AMERICA,32,dodge,demon,275000,1850.00,United States,1200,2,detroit,1200.00
+NORTH AMERICA,51,bmw,X7,315000,1890.00,United States,9000,2,boston,8100.00
+NORTH AMERICA,53,audi,Q7,365000,1910.00,United States,11500,2,boston,9200.00
+NORTH AMERICA,56,toyota,camry,230000,1640.00,United States,11000,2,memphis,10700.00
+NORTH AMERICA,57,toyota,RAV4,260000,1620.00,United States,10000,2,memphis,9850.00
+NORTH AMERICA,58,bmw,Z4,350000,1160.00,United States,4100,2,boston,3600.00
+ASIA,3,kia,ceed,135000,1250.00,South Korea,9000,3,seul,8550.00
+ASIA,8,hyundai,i30,125000,1400.00,South Korea,11000,3,seul,11000.00
+ASIA,9,hyundai,i40,150000,1600.00,South Korea,9000,3,seul,8100.00
+ASIA,16,hyundai,elantra,100000,1350.65,South Korea,16000,3,pusan,13600.00
+ASIA,17,kia,xceed,150000,1400.00,South Korea,9100,3,seul,7280.00
+ASIA,18,kia,venga,103000,1360.00,South Korea,7500,3,pusan,4500.00
+ASIA,19,kia,stonic,117000,1440.00,South Korea,9200,3,seul,7360.00
+ASIA,23,hyundai,i10,60000,1020.35,South Korea,9700,3,seul,6790.00
+ASIA,25,honda,jazz,110000,1200.00,Japan,7000,3,tokio,5950.00
+ASIA,26,honda,CR-V,170000,1700.00,Japan,6500,3,yokohama,5200.00
+ASIA,27,honda,civic,130000,1380.00,Japan,15500,3,tokio,13950.00
+ASIA,30,honda,HR-V,144000,1530.00,Japan,8100,3,yokohama,8100.00
+ASIA,39,kia,optima,265000,1700.00,South Korea,1700,3,seul,1530.00
+ASIA,40,kia,picanto,70000,1050.00,South Korea,6500,3,pusan,5200.00
+ASIA,41,kia,EV6,204000,1600.00,South Korea,11000,3,pusan,8250.00
+ASIA,54,hyundai,Santa Fe,279000,1920.00,South Korea,8100,3,pusan,7700.00
+ASIA,60,toyota,corolla,135000,1440.00,Japan,22000,3,tokio,18500.00
+AUSTRALIA,33,acura,rsx,255000,1450.00,Australia,1850,4,sydney,1850.00
+AUSTRALIA,34,range,discovery,335000,2100.00,Australia,5500,4,victoria,3850.00
+AUSTRALIA,35,dodge,ram,215000,2300.00,Australia,7900,4,victoria,6320.00
+AUSTRALIA,45,acura,ssx,404000,1475.00,Australia,700,4,sydney,665.00
+AUSTRALIA,46,acura,lightning,625000,1525.00,Australia,500,4,perth,500.00
+AUSTRALIA,47,acura,rapido,164000,1510.00,Australia,15500,4,perth,12400.00
+AUSTRALIA,59,toyota,supra,399000,1310.00,Australia,8900,4,perth,8870.00
